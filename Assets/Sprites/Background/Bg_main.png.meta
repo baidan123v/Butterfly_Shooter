@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9fd82e3c3a8b0aa4881edfa6cc2616b2
+guid: 052821ebd61d00444a1478a1236e3601
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite Game BG Space_0
+      name: Bg_main_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1920
-        width: 1080
-        height: 1920
+        y: 1024
+        width: 581
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,41 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb9d17353980fce43b923b2f0c9938a2
-      internalID: 591928515
+      spriteID: f3e66a70e9c14334aaf6d7a5c6ceb6ea
+      internalID: 114218219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Game BG Space_1
-      rect:
-        serializedVersion: 2
-        x: 1080
-        y: 1920
-        width: 1080
-        height: 1920
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55c05c975fb46cc4289ed11f8e61542d
-      internalID: -518325834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Game BG Space_2
+      name: Bg_main_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1080
-        height: 1920
+        width: 581
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,29 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a24cad5a3aa503847bec36910ce5bc8a
-      internalID: 469819314
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Game BG Space_3
-      rect:
-        serializedVersion: 2
-        x: 1080
-        y: 0
-        width: 1080
-        height: 1920
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e127440ef53d8814ca8811938e7d548c
-      internalID: 1502289277
+      spriteID: 79227e7efa41dd346b2e14b4fab20666
+      internalID: -535764299
       vertices: []
       indices: 
       edges: []
@@ -211,10 +169,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sprite Game BG Space_2: 469819314
-      Sprite Game BG Space_3: 1502289277
-      Sprite Game BG Space_1: -518325834
-      Sprite Game BG Space_0: 591928515
+      Bg_main_0: 114218219
+      Bg_main_1: -535764299
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

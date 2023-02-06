@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a2e409fe7416cf4f9f96b4bf3e75cc6
+guid: cab8e76aa77a2e54aaff4cc76a3ea20d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,127 +117,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite Game Planets_0
+      name: BackgroundMain_0
       rect:
         serializedVersion: 2
-        x: 341
-        y: 4385
-        width: 2454
-        height: 1166
-      alignment: 9
-      pivot: {x: 0.15816838, y: 0.21460673}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9022aea1bc5dbb4d8edc2bbf434cfca
-      internalID: -616078911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Game Planets_1
-      rect:
-        serializedVersion: 2
-        x: 3497
-        y: 4276
-        width: 2384
-        height: 1286
-      alignment: 9
-      pivot: {x: 0.40985188, y: 0.25741002}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e5ffae3e0c437d409e1f1fa11ada858
-      internalID: 341178207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprite Game Planets_19
-      rect:
-        serializedVersion: 2
-        x: 924
-        y: 2890
-        width: 1166
-        height: 1173
+        x: 0
+        y: 1023
+        width: 600
+        height: 1023
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c9320fa61c62f84984c9dc050f6d3d0
-      internalID: -31843419
+      spriteID: bf48319432128174da2382ca343aa9da
+      internalID: 585526030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Game Planets_22
+      name: BackgroundMain_1
       rect:
         serializedVersion: 2
-        x: 4122
-        y: 2716
-        width: 1176
-        height: 1376
-      alignment: 9
-      pivot: {x: 0.64737874, y: 0.32869828}
+        x: 598
+        y: 1021
+        width: 600
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a10a6b669d05aee4aae3d4b50c5be2c0
-      internalID: 326206369
+      spriteID: af841701afdbc414b8105706abb7271a
+      internalID: -498947587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Game Planets_35
+      name: BackgroundMain_2
       rect:
         serializedVersion: 2
-        x: 3516
-        y: 1354
-        width: 2396
-        height: 1284
-      alignment: 9
-      pivot: {x: 0.6099507, y: 0.22463657}
+        x: 0
+        y: 0
+        width: 600
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a399acc274b5404f8d5d643af7dbfd9
-      internalID: -1548541476
+      spriteID: b20f5154fb5baf74894e77b1aca19fde
+      internalID: -1343340446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Game Planets_37
+      name: BackgroundMain_3
       rect:
         serializedVersion: 2
-        x: 445
-        y: 1309
-        width: 2377
-        height: 1151
-      alignment: 9
-      pivot: {x: 0.8383221, y: 0.19884098}
+        x: 600
+        y: 0
+        width: 600
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43eb677fa7beaee41b82484010b5f245
-      internalID: 2054323978
+      spriteID: 5f1c83a0ea4a3a2418083a52215d044f
+      internalID: -224404040
       vertices: []
       indices: 
       edges: []
@@ -253,46 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sprite Game Planets_6: -806947829
-      Sprite Game Planets_1: 341178207
-      Sprite Game Planets_13: 1610606170
-      Sprite Game Planets_25: -1554612784
-      Sprite Game Planets_34: -1853949645
-      Sprite Game Planets_23: 1882661404
-      Sprite Game Planets_5: 337824747
-      Sprite Game Planets_3: -2066224177
-      Sprite Game Planets_15: 65360198
-      Sprite Game Planets_8: -1683100483
-      Sprite Game Planets_27: 769057708
-      Sprite Game Planets_28: 2023451721
-      Sprite Game Planets_36: -865913106
-      Sprite Game Planets_37: 2054323978
-      Sprite Game Planets_10: -2137565401
-      Sprite Game Planets_2: 283717728
-      Sprite Game Planets_38: -1159174611
-      Sprite Game Planets_12: 1010097518
-      Sprite Game Planets_31: 353947130
-      Sprite Game Planets_9: -1931411745
-      Sprite Game Planets_18: -124327533
-      Sprite Game Planets_20: 727725159
-      Sprite Game Planets_21: 584566796
-      Sprite Game Planets_7: -524521696
-      Sprite Game Planets_32: -1594606182
-      Sprite Game Planets_24: -231505565
-      Sprite Game Planets_16: -310138842
-      Sprite Game Planets_26: 1767595110
-      Sprite Game Planets_4: -1755065154
-      Sprite Game Planets_0: -616078911
-      Sprite Game Planets_22: 326206369
-      Sprite Game Planets_19: -31843419
-      Sprite Game Planets_30: -1018111158
-      Sprite Game Planets_39: 797061222
-      Sprite Game Planets_35: -1548541476
-      Sprite Game Planets_29: -1225930495
-      Sprite Game Planets_33: -489771453
-      Sprite Game Planets_14: -701353641
-      Sprite Game Planets_11: -1403944384
-      Sprite Game Planets_17: -467829789
+      BackgroundMain_0: 585526030
+      BackgroundMain_2: -1343340446
+      BackgroundMain_1: -498947587
+      BackgroundMain_3: -224404040
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

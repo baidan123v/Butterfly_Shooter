@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9fd82e3c3a8b0aa4881edfa6cc2616b2
+guid: 5a76c947c4f0a1c45aab00f9008c3e0d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprite Game BG Space_0
+      name: Planets_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1920
-        width: 1080
-        height: 1920
+        x: 360
+        y: 581
+        width: 327
+        height: 340
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb9d17353980fce43b923b2f0c9938a2
-      internalID: 591928515
+      spriteID: 0acbf1d2b9eff9c4cbc500c18ec1a3ea
+      internalID: 295679503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Game BG Space_1
+      name: Planets_2
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 1920
-        width: 1080
-        height: 1920
+        x: 42
+        y: 426
+        width: 305
+        height: 310
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55c05c975fb46cc4289ed11f8e61542d
-      internalID: -518325834
+      spriteID: c821acacc8ab15e4dbb69cc8f0d66d65
+      internalID: 535068550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Game BG Space_2
+      name: Planets_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1080
-        height: 1920
+        x: 364
+        y: 234
+        width: 313
+        height: 307
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a24cad5a3aa503847bec36910ce5bc8a
-      internalID: 469819314
+      spriteID: 521d032dbf1d14a4781188e72d9fdaa2
+      internalID: -1149631997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite Game BG Space_3
+      name: Planets_4
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 0
-        width: 1080
-        height: 1920
+        x: 697
+        y: 390
+        width: 310
+        height: 327
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +194,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e127440ef53d8814ca8811938e7d548c
-      internalID: 1502289277
+      spriteID: feee10406029d03488e6141d0315756b
+      internalID: 79365349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 24
+        width: 354
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c5247f7114642409382b7615c0c1a1
+      internalID: 2044967767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 28
+        width: 356
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a985158840a9d745855628449ed832e
+      internalID: -2042244997
       vertices: []
       indices: 
       edges: []
@@ -211,10 +253,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sprite Game BG Space_2: 469819314
-      Sprite Game BG Space_3: 1502289277
-      Sprite Game BG Space_1: -518325834
-      Sprite Game BG Space_0: 591928515
+      Planets_8: -2042244997
+      Planets_2: 535068550
+      Planets_7: -1356503192
+      Planets_6: -2045168273
+      Planets_1: 1474628980
+      Planets_0: 295679503
+      Planets_3: -1149631997
+      Planets_5: 2044967767
+      Planets_4: 79365349
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
