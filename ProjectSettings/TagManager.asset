@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Planet
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -50,10 +53,10 @@ TagManager:
   - name: Planets
     uniqueID: 1039414019
     locked: 0
-  - name: New Layer 4
+  - name: Enemy
     uniqueID: 3142551173
     locked: 0
-  - name: New Layer 5
+  - name: Bullet
     uniqueID: 3358697485
     locked: 0
   - name: New Layer 6

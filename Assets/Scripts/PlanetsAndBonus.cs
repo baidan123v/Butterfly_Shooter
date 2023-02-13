@@ -39,7 +39,7 @@ IEnumerator PlanetsCreation()
         // The planet will move at an angle in the range of -25 to 25
         GameObject newPlanet = Instantiate(planetsList[randomIndex],
             new Vector3(Random.Range(PlayerMoving.instance.borders.minX, PlayerMoving.instance.borders.maxX),
-            PlayerMoving.instance.borders.maxY * 1.5f),
+            PlayerMoving.instance.borders.maxY * 2f),
             Quaternion.Euler(0,0, Random.Range(-25,25)));
 
             // Remove  the selected planet from the list 

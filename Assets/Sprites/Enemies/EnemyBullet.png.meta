@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: 81043b86c9ce70a4ab60948deb99dc1a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyBullet_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 874
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef3d07b5001d34d97fb1a0db6214b2
+      internalID: -461069333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_8
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 846
+        width: 324
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6667cd0b27e32543ab243354801e6ac
+      internalID: -604020661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_15
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 609
+        width: 476
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1705107536ffe348a408d3f963818a0
+      internalID: 765153293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_24
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 534
+        width: 365
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b84baf3621944aa858cea82db7001
+      internalID: 1378120910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_32
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 542
+        width: 199
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f124e4128a2df42bf45fd8b6783f79
+      internalID: -1930879166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 607
+        width: 161
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48577464, y: 0.49132562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb04461ad231574fbb7b984c835eeb2
+      internalID: 966893814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 632
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67baac56aaa20ea419027b8ebd4919ac
+      internalID: -1307721846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_52
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 605
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0bf3a2b04602498f7978220ff5e12
+      internalID: 1279729826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677b126c870f6eb43b537725a753fcb1
+      internalID: -1650322525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_85
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 266
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9cba5c47f873468d73f53526c1d99
+      internalID: 1139080091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_102
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 143
+        width: 126
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43100cb5b815dc4bba15311c39fa239
+      internalID: 353815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_103
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 119
+        width: 155
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a637f1bd09a2ede4fb0330f5e1e65229
+      internalID: 1784652271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_111
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 197
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad65ba33abeae448058f1521e24b62
+      internalID: -2049799249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_117
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 145
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e974d15659b22ed4484ba03564f39edc
+      internalID: -1803964655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_124
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 169
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41987970793e434489c19ea7c50ed645
+      internalID: 1970509439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_125
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 176
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0bded6b6cddd844b2a96edd93f7bd7
+      internalID: 827278148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_129
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 132
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c7fc0dbec26c74aa343c83b41796e6
+      internalID: -1380384347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBullet_141
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 82
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51fb87e9665f94bb40e8fe7f77fec3
+      internalID: 1440744525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyBullet_132: -1359041801
+      EnemyBullet_136: 1518680942
+      EnemyBullet_35: 293478547
+      EnemyBullet_48: -1375054593
+      EnemyBullet_6: -461069333
+      EnemyBullet_18: 2100876450
+      EnemyBullet_17: 1875687540
+      EnemyBullet_5: -1160013754
+      EnemyBullet_39: 979090514
+      EnemyBullet_50: -1366454692
+      EnemyBullet_81: 232003639
+      EnemyBullet_108: -1060588318
+      EnemyBullet_110: 649127786
+      EnemyBullet_79: -1552287504
+      EnemyBullet_119: -947929034
+      EnemyBullet_55: 1749524750
+      EnemyBullet_64: 313168670
+      EnemyBullet_127: 1713626356
+      EnemyBullet_58: -1650322525
+      EnemyBullet_123: 1237130625
+      EnemyBullet_27: 1822304393
+      EnemyBullet_85: 1139080091
+      EnemyBullet_82: -1704282042
+      EnemyBullet_133: -1950740935
+      EnemyBullet_72: 1439486930
+      EnemyBullet_23: 1809239717
+      EnemyBullet_4: -908701515
+      EnemyBullet_129: -1380384347
+      EnemyBullet_9: 2021462583
+      EnemyBullet_54: -508322108
+      EnemyBullet_62: 1453639423
+      EnemyBullet_95: -1158603166
+      EnemyBullet_142: 1448030795
+      EnemyBullet_91: 285254122
+      EnemyBullet_0: 762336625
+      EnemyBullet_28: 141497269
+      EnemyBullet_47: -1530527365
+      EnemyBullet_49: 2127512398
+      EnemyBullet_107: -1376010167
+      EnemyBullet_65: -1636161078
+      EnemyBullet_147: -1499096759
+      EnemyBullet_7: 844884490
+      EnemyBullet_138: 707951098
+      EnemyBullet_42: 1428046140
+      EnemyBullet_135: 744121866
+      EnemyBullet_21: 1240118992
+      EnemyBullet_40: -234693619
+      EnemyBullet_73: 1126826776
+      EnemyBullet_103: 1784652271
+      EnemyBullet_56: 116028863
+      EnemyBullet_125: 827278148
+      EnemyBullet_14: -687495527
+      EnemyBullet_111: -2049799249
+      EnemyBullet_16: -1715290303
+      EnemyBullet_59: 1157210022
+      EnemyBullet_118: -1702223398
+      EnemyBullet_66: 741763485
+      EnemyBullet_80: -53342157
+      EnemyBullet_137: 712952092
+      EnemyBullet_141: 1440744525
+      EnemyBullet_61: -1872573848
+      EnemyBullet_51: -1110381689
+      EnemyBullet_150: 268958638
+      EnemyBullet_75: 127494179
+      EnemyBullet_105: -79367744
+      EnemyBullet_122: -1327757288
+      EnemyBullet_145: -685008053
+      EnemyBullet_131: -1856397484
+      EnemyBullet_140: -636782674
+      EnemyBullet_144: 405311736
+      EnemyBullet_10: 1331356515
+      EnemyBullet_63: 900231152
+      EnemyBullet_86: -529064075
+      EnemyBullet_25: 1198474425
+      EnemyBullet_13: -962146489
+      EnemyBullet_84: 1386600435
+      EnemyBullet_88: -1705646522
+      EnemyBullet_134: 1725900671
+      EnemyBullet_2: 1178462624
+      EnemyBullet_52: 1279729826
+      EnemyBullet_102: 353815
+      EnemyBullet_15: 765153293
+      EnemyBullet_104: 672317923
+      EnemyBullet_30: 316868511
+      EnemyBullet_68: -611811620
+      EnemyBullet_71: -1491469806
+      EnemyBullet_93: -700794613
+      EnemyBullet_22: 1622147180
+      EnemyBullet_83: -222562004
+      EnemyBullet_114: 1832705844
+      EnemyBullet_57: 1581037791
+      EnemyBullet_77: -1342900589
+      EnemyBullet_90: -2030586931
+      EnemyBullet_149: -393904750
+      EnemyBullet_146: 391581256
+      EnemyBullet_70: -758589675
+      EnemyBullet_38: 55607542
+      EnemyBullet_32: -1930879166
+      EnemyBullet_99: 68133999
+      EnemyBullet_36: 966893814
+      EnemyBullet_67: -1718891354
+      EnemyBullet_154: -1954860111
+      EnemyBullet_33: -1163306061
+      EnemyBullet_121: 1192577610
+      EnemyBullet_100: 1203469910
+      EnemyBullet_24: 1378120910
+      EnemyBullet_116: -1917027647
+      EnemyBullet_152: -133791278
+      EnemyBullet_78: -391402454
+      EnemyBullet_115: 361993862
+      EnemyBullet_148: -1789064277
+      EnemyBullet_117: -1803964655
+      EnemyBullet_69: -986370424
+      EnemyBullet_126: -894863531
+      EnemyBullet_156: 1616535511
+      EnemyBullet_87: 945667169
+      EnemyBullet_43: 223606709
+      EnemyBullet_34: -1279728251
+      EnemyBullet_96: 1835563092
+      EnemyBullet_12: -478267846
+      EnemyBullet_53: 1304295340
+      EnemyBullet_45: 1872884781
+      EnemyBullet_19: -1280549796
+      EnemyBullet_109: -632540191
+      EnemyBullet_31: 810186043
+      EnemyBullet_89: 831587104
+      EnemyBullet_3: 749215242
+      EnemyBullet_106: -1301315473
+      EnemyBullet_151: -732666462
+      EnemyBullet_143: -938045943
+      EnemyBullet_97: -1367966754
+      EnemyBullet_112: -849232015
+      EnemyBullet_8: -604020661
+      EnemyBullet_20: 973079087
+      EnemyBullet_29: 1244542829
+      EnemyBullet_37: -1878088688
+      EnemyBullet_94: -1604271811
+      EnemyBullet_60: -105496925
+      EnemyBullet_139: 2004002859
+      EnemyBullet_124: 1970509439
+      EnemyBullet_26: 2087469948
+      EnemyBullet_120: 1839538093
+      EnemyBullet_155: -1264750943
+      EnemyBullet_46: 44707195
+      EnemyBullet_101: 1137045093
+      EnemyBullet_153: -1327415871
+      EnemyBullet_41: -1307721846
+      EnemyBullet_130: -627866217
+      EnemyBullet_76: 499769782
+      EnemyBullet_92: -677474155
+      EnemyBullet_98: 2102385740
+      EnemyBullet_113: -1514122892
+      EnemyBullet_44: 1910905311
+      EnemyBullet_1: 868152067
+      EnemyBullet_11: 1176341335
+      EnemyBullet_74: -483266110
+      EnemyBullet_128: -1885158161
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -54,6 +54,7 @@ public class PlayerMoving : MonoBehaviour
       if (Input.GetMouseButton(0)){
          // Get 2d coordinates (xy) click on screen 
          _mouse_position = _camera.ScreenToWorldPoint(Input.mousePosition); // Место нажатия по экрану
+         _mouse_position.y += 1.5f;
          // Move our player to the 2D coordinates clicks at a given speed.
          transform.position = Vector2.MoveTowards(transform.position, _mouse_position, speed_player * Time.deltaTime);
       }
